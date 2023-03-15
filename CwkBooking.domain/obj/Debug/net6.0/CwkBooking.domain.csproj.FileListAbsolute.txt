@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\bin\Debug\net6.0\CwkBooking.domain.deps.json
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\bin\Debug\net6.0\CwkBooking.domain.dll
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\bin\Debug\net6.0\CwkBooking.domain.pdb
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.AssemblyInfo.cs
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.dll
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\refint\CwkBooking.domain.dll
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\CwkBooking.domain.pdb
+C:\Users\pc\source\repos\CwkBooking\CwkBooking.domain\obj\Debug\net6.0\ref\CwkBooking.domain.dll
