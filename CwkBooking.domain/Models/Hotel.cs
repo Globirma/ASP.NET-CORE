@@ -8,13 +8,10 @@ namespace CwkBooking.domain.Models
 {
     public class Hotel
     {
-        public Hotel (string name, int star, string address) {
+        public Hotel(string Name, int Star , string Country) { 
 
-         if  (string.IsNullOrWhiteSpace(name))
-            
-                throw new ArgumentNullException("HOtel name can't be null or whitespace."); 
-            
         }
+
         public int HotelId { get; set; }
         public string Name { get; set; }
         public int Star { get; set; }

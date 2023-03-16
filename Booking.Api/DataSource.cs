@@ -1,5 +1,7 @@
 ﻿using CwkBooking.domain.Models;
 
+
+
 namespace Booking.Api
 {
     public class DataSource
@@ -11,33 +13,31 @@ namespace Booking.Api
         public List<Hotel> Hotels { get; set; }
 
         //list of hotels to use
-        private List<Hotel> GetHotels()
-        {
-            return new List<Hotel>
+        private List<Hotel> GetHotels() => new List<Hotel>
           {
-           new Hotel
+
+           new Hotel("Luxry", 3 , "UK")
            {
             HotelId = 1,
             Name = "Luxry",
-            Stars = 3,
+            Star = 3,
             Country = "UK",
             City = "London",
-            Description = "some nice description"
+            description = "some nice description"
            },
-           new Hotel
+
+           new Hotel("westin", 4 , "USA")
            {
             HotelId = 2,
             Name = "Westin",
-            Stars = 4,
+            Star = 4,
             Country = "USA",
             City = "Seattle",
-            Description = "some nice description"
+            description = "some nice description"
            }
-            }
+            };
 
-       }
-
-       }
+    }
     
     }
 

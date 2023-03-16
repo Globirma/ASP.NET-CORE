@@ -30,3 +30,5 @@ C:\Users\pc\source\repos\CwkBooking\Booking.Api\obj\Debug\net6.0\refint\Booking.
 C:\Users\pc\source\repos\CwkBooking\Booking.Api\obj\Debug\net6.0\Booking.Api.pdb
 C:\Users\pc\source\repos\CwkBooking\Booking.Api\obj\Debug\net6.0\Booking.Api.genruntimeconfig.cache
 C:\Users\pc\source\repos\CwkBooking\Booking.Api\obj\Debug\net6.0\ref\Booking.Api.dll
+C:\Users\pc\source\repos\CwkBooking\Booking.Api\bin\Debug\net6.0\CwkBooking.domain.dll
+C:\Users\pc\source\repos\CwkBooking\Booking.Api\bin\Debug\net6.0\CwkBooking.domain.pdb
